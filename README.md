@@ -24,4 +24,4 @@
 
 ## Other
 - [DigitPrediction_BackEnd](https://github.com/seuha516/digit-prediction-flask-backend)
-- [Deeplearning Model (Colab)](https://colab.research.google.com/github/seuha516/DigitPrediction_server/blob/main/DigitPrediction.ipynb)
+- [Deeplearning Model (Colab)](https://colab.research.google.com/github/seuha516/digit-prediction-flask-backend/blob/main/DigitPrediction.ipynb)
