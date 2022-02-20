@@ -23,5 +23,5 @@
   - 숫자 판별 API에 이미지 전송, 결과 반환
 
 ## Other
-- [DigitPrediction_BackEnd](https://github.com/seuha516/DigitPrediction_BackEnd)
+- [DigitPrediction_BackEnd](https://github.com/seuha516/digit-prediction-flask-backend)
 - [Deeplearning Model (Colab)](https://colab.research.google.com/github/seuha516/DigitPrediction_server/blob/main/DigitPrediction.ipynb)
