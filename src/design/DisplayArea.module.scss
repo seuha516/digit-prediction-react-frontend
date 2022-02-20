@@ -1,0 +1,13 @@
+@mixin flexbox($W, $H) {
+  width: $W;
+  height: $H;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.area {
+  @include flexbox(100%, 100%);
+  flex-direction: column;
+  overflow: hidden;
+}

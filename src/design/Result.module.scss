@@ -1,0 +1,86 @@
+.value {
+  font-size: 225px;
+  color: rgb(0, 0, 0);
+  height: 200px;
+  margin-bottom: 30px;
+}
+.prob {
+  font-size: 70px;
+  color: rgb(95, 95, 95);
+  height: 75px;
+}
+.delay {
+  font-size: 20px;
+  color: rgb(56, 29, 129);
+  height: 22.5px;
+  text-shadow: 1px 0 white, 0 1px white, 1px 0 white, 0 1px white;
+}
+
+@media all and (max-width: 720px) {
+  .value {
+    font-size: 31.25vw;
+    height: 27.78vw;
+    margin-bottom: 4.17vw;
+  }
+  .prob {
+    font-size: 9.72vw;
+    height: 10.42vw;
+  }
+  .delay {
+    font-size: 2.78vw;
+    height: 3.125vw;
+  }
+}
+@media all and (max-width: 512px) {
+  .value {
+    font-size: 160px;
+    height: 150px;
+    margin: -10px 30px 0px 0px;
+  }
+  .prob {
+    font-size: 55px;
+    height: 40px;
+    margin-bottom: 15px;
+  }
+  .delay {
+    font-size: 20px;
+    height: 22.5px;
+  }
+}
+@media all and (max-width: 400px) {
+  .value {
+    font-size: 130px;
+    height: 120px;
+    margin: -10px 25px 0px 0px;
+  }
+  .prob {
+    font-size: 45px;
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  .delay {
+    font-size: 15px;
+    height: 12.5px;
+  }
+}
+@media all and (max-height: 420px) {
+  .value {
+    font-size: 180px;
+    height: 160px;
+    margin: -15px 0 10px 0;
+  }
+  .prob {
+    font-size: 60px;
+    height: 70px;
+  }
+}
+@media all and (max-height: 420px) and (max-width: 620px) {
+  .value {
+    font-size: 29vw;
+    height: 25.7vw;
+  }
+  .prob {
+    font-size: 9.68vw;
+    height: 11.3vw;
+  }
+}
